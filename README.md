@@ -49,10 +49,10 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 **Interface ~5min**
 
     Explain the upper and lower toolbars/menus and right click menus
+ 
+## **Operators**
 
-**Operators**
-
-**Bases/misc ~10min**
+### **Bases/misc ~10min**
 
     What they are for and how they can be useful
 
@@ -68,7 +68,7 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
           Base
 
-**Chops ~15min**
+### **Chops ~15min**
 
     What they are for and how they can be useful
 
@@ -84,7 +84,7 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
           Osc/kb/mouse in/out
 
-**Tops ~20min**
+### **Tops ~20min**
 
     What they are for and how they can be useful
 
@@ -100,7 +100,7 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
           Composite
 
-**Sops ~20min**
+### **Sops ~20min**
 
   What they are for and how they can be useful
 
@@ -116,7 +116,7 @@ Real time generative graphics basics: From generating graphics using dynamic noi
  
         Magnet
 
-**Mats ~10min**
+### **Mats ~10min**
 
     What they are for and how they can be useful
 
@@ -132,23 +132,23 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
          Wireframe
 
-**Dats ~10min**
+### **Dats ~10min**
 
-  What they are for and how they can be useful
+      What they are for and how they can be useful
 
-    *Top 5*
+          *Top 5*
 
-        Chop Execute
+             Chop Execute
 
-        Websocket
+             Websocket
 
-        Script
+             Execute
 
-        Table
+             Table
 
-        WebRCP
+             WebClient
 
-**UI Widgets ~10min**
+### **UI Widgets ~10min**
 
     What they are for and how they can be useful
 
