@@ -154,15 +154,15 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
       *Top 5*
 
-        SliderHoz
+              SliderHoz
 
-        SliderVert
+              SliderVert
 
-        ButtonToggle
+              ButtonToggle
 
-        FieldString
+              FieldString
 
-        KnobFixed
+              KnobFixed
 
 **Basic project ~20min**
 
