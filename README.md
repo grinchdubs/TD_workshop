@@ -129,7 +129,7 @@ Real time generative graphics basics: From generating graphics using dynamic noi
          FieldString             
          KnobFixed
 
-**Basic project ~20min**
+### **Basic project ~20min**
 
 # Other Topics
 
