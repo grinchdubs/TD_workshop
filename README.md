@@ -1,2 +1,4 @@
-# TD_workshop
-TD workshop project
+# Intro to TouchDesigner Workshop at NYC Resistor
+Intro TD workshop project
+
+
