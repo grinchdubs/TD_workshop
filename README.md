@@ -102,19 +102,19 @@ Real time generative graphics basics: From generating graphics using dynamic noi
 
 ### **Sops ~20min**
 
-      What they are for and how they can be useful
+    What they are for and how they can be useful
 
-        *Top 5*
+      *Top 5*
 
-            Sphere
+        Sphere
 
-            Grid
+        Grid
 
-            Noise
+        Noise
 
-            Metaball
+        Metaball
  
-            Magnet
+        Magnet
 
 ### **Mats ~10min**
 
