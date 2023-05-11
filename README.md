@@ -57,112 +57,77 @@ Real time generative graphics basics: From generating graphics using dynamic noi
     What they are for and how they can be useful
 
       *Top 5*
-
-          Camera
-
-          Light
-
-          Geo
-
-          Container
-
-          Base
+         Camera
+         Light
+         Geo
+         Container
+         Base
 
 ### **Chops ~15min**
 
     What they are for and how they can be useful
 
-      *Top 5*
-
-          AudioFileIn
-
-          Math
-
-          Lfo
-
-          Lag
-
-          Osc/kb/mouse in/out
+    *Top 5*
+       AudioFileIn
+       Math
+       Lfo
+       Lag
+       Osc/kb/mouse in/out
 
 ### **Tops ~20min**
 
     What they are for and how they can be useful
 
-      *Top 5*
-
-          MovieFileIn
-
-          Ramp
-
-          Lookup
-
-          Feedback
-
-          Composite
+    *Top 5*
+       MovieFileIn
+       Ramp
+       Lookup
+       Feedback
+       Composite
 
 ### **Sops ~20min**
 
     What they are for and how they can be useful
 
-      *Top 5*
-
-        Sphere
-
-        Grid
-
-        Noise
-
-        Metaball
- 
-        Magnet
+    *Top 5*
+       Sphere
+       Grid
+       Noise
+       Metaball
+       Magnet
 
 ### **Mats ~10min**
 
     What they are for and how they can be useful
 
-      *Top 5*
-
+    *Top 5*
         Phong
-
         PBR
-
         Constant
-
-         GLSL 
-
-         Wireframe
+        GLSL 
+        Wireframe
 
 ### **Dats ~10min**
 
       What they are for and how they can be useful
 
-          *Top 5*
-
-             Chop Execute
-
-             Websocket
-
-             Execute
-
-             Table
-
-             WebClient
+     *Top 5*
+        Chop Execute
+        Websocket
+        Execute
+        Table
+        WebClient
 
 ### **UI Widgets ~10min**
 
     What they are for and how they can be useful
 
       *Top 5*
-
-              SliderHoz
-
-              SliderVert
-
-              ButtonToggle
-
-              FieldString
-
-              KnobFixed
+         SliderHoz
+         SliderVert
+         ButtonToggle
+         FieldString             
+         KnobFixed
 
 **Basic project ~20min**
 
